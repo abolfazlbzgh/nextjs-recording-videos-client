@@ -1,6 +1,6 @@
 # Recording Videos Client
 
-This project is a simple Next.js application that fetches data from a NestJS API and displays a list of recording videos using Tailwind CSS for styling.
+This project is a simple Next.js application that fetches data from a [NestJS API](https://github.com/abolfazlbzgh/nestjs-recording-video-api.git) and displays a list of recording videos using Tailwind CSS for styling.
 
 ## Screenshot
 
